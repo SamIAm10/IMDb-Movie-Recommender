@@ -7,7 +7,7 @@ The model finds the best matches using a content-based approach. Recommendations
 
 Full source code can be found in `movie_recommender.ipynb`.
 
-**There's also a demo version, which you can run [here](https://mybinder.org/v2/gh/SamIAm10/IMDb-Movie-Recommender/HEAD?filepath=movie_recommender_DEMO.ipynb).**
+**There's also a demo version, which you can try [here](https://mybinder.org/v2/gh/SamIAm10/IMDb-Movie-Recommender/HEAD?filepath=movie_recommender_DEMO.ipynb).**
 
 ## Requirements
 1. NumPy
