@@ -7,7 +7,7 @@ The model finds the best matches using a content-based approach. Recommendations
 
 Full source code can be found in `movie_recommender.ipynb`.
 
-***There's also a demo version, which you can try [here](https://colab.research.google.com/drive/1R4FQKl6IT442tb-dZLfcCfczPvHJYp7z?usp=sharing).***
+***There's also a demo version, which you can try [here](https://colab.research.google.com/drive/1R4FQKl6IT442tb-dZLfcCfczPvHJYp7z?usp=sharing) (Google sign-in required).***
 
 ## Requirements
 1. NumPy
