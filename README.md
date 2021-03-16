@@ -1,6 +1,6 @@
 # IMDb Movie Recommender
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SamIAm10/IMDb-Movie-Recommender/HEAD?filepath=movie_recommender_DEMO.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R4FQKl6IT442tb-dZLfcCfczPvHJYp7z?usp=sharing)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SamIAm10/IMDb-Movie-Recommender/HEAD?filepath=movie_recommender_DEMO.ipynb)
 
 Machine learning program that recommends movies to users based on their favorite movies using the [IMDb public dataset](https://www.imdb.com/interfaces/).
 
