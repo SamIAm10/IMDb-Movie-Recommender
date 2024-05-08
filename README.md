@@ -10,7 +10,10 @@ Full source code can be found in `movie_recommender.ipynb`.
 
 ***There's also a demo version, which you can try [here](https://colab.research.google.com/drive/1ntcAF1rodBA5t_LQTn7R4agkkhrWtR8o).***
 
+`movie_visualizations.ipynb` contains an interesting analysis regarding movie runtime and average viewer ratings.
+
 ## Requirements
 1. NumPy
 2. Pandas
 3. Scikit-learn
+4. Plotly (for visualizations)
